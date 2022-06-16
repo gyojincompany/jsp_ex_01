@@ -7,7 +7,7 @@
 <title>로그인 화면</title>
 </head>
 <body>
-	<h2>로그인</h2>
+	<h2>로그인 화면</h2>
 	<hr>
 	<form action="loginOk.jsp">
 		아이디:<input type="text" name="id"><br><br>
